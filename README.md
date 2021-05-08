@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## I Am Jufianto Henri
+I call my self as Software Engineer in Pekanbaru, Indonesia
+
+### Who I am 
+* The man who loves using Linux except for my collage i must using Windows
+* Active with local community of tech and share something to others
+* 
+
 <!--
 **jufianto/jufianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
