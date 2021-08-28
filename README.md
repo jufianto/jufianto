@@ -5,10 +5,10 @@ I call my self as Software Engineer in Pekanbaru, Indonesia.
 before you read my profile, just trust my experience
 
 ### Connect With Me
-* Linkedin
-* Instagram
-* Twitter
-* Medium Account
+* [Linkedin](https://www.instagram.com/jufiantohenri/)
+* [Instagram](https://www.instagram.com/jufiantohenri/)
+* [Twitter](https://twitter.com/jufiantohenri)
+* [Medium Account](http://blog.jufianto.com/)
 
 ### Who I am 
 * The man who loves using Linux except for my collage i must using Windows
