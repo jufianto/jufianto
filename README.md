@@ -17,8 +17,6 @@ before you read my profile, just trust my experience
 * I want to write something usefull, but I have no confidence in writing that
 
 ### I am Currently Working on
-* Complete my certification training about Kubernetes
-* Complete my thesis of bachelor degree
 * Working as Software Engineer in local hospital my city
 * Working as Freelance Programmer if needed
 
@@ -33,6 +31,8 @@ before you read my profile, just trust my experience
 * Contribute to Open Soure project, especially in CNCF Projects
 * Working in a big company and get knowledge of how real project management is used
 
+
+<!--
 ### My Learning Path
 This is my learning path with tech. you can check [Here]() 
 
@@ -43,7 +43,7 @@ This is my learning path with tech. you can check [Here]()
 
 You can check my full project [Here]()
 
-<!--
+
 **jufianto/jufianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
