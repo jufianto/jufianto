@@ -17,7 +17,7 @@ before you read my profile, just trust my experience
 * I want to write something usefull, but I have no confidence in writing that
 
 ### I am Currently Working on
-* Working as Software Engineer in local hospital my city
+* Working as Software Engineer in Brankas.com
 * Working as Freelance Programmer if needed
 
 ### I am Currently Learning 
