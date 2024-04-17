@@ -1,30 +1,32 @@
 ### Hi there 👋
 
-## I Am Jufianto Henri
-I call my self as Software Engineer in Pekanbaru, Indonesia.     
-before you read my profile, just trust my experience
+## Jufianto Henri
 
-### Connect With Me
-* [Linkedin](https://www.instagram.com/jufiantohenri/)
-* [Instagram](https://www.instagram.com/jufiantohenri/)
-* [Twitter](https://twitter.com/jufiantohenri)
-* [Medium Account](http://blog.jufianto.com/)
-
-### Who I am 
-* The man who loves using Linux except for my collage i must using Windows
+* The man who loves using Linux except for need to create thesis and gaming
 * Active with local community of tech and share something to others
-* Always got new idea, but just be idea because i forget to write it
+* Always got new idea, but just be idea because i forget to write it (lol)
 * I want to write something usefull, but I have no confidence in writing that
 
 ### I am Currently Working on
 * Working as Software Engineer in Brankas.com
-* Working as Freelance Programmer if needed
 
 ### I am Currently Learning 
 * Go Language 
 * Project Management / Agile 
 * Docker
 * Kubernetes
+
+### My Tech
+* Mysql
+* Postgres
+* Go
+* PHP
+* Laravel
+* Docker
+* Kubernetes
+* Python
+* GCP
+* Vue 
 
 
 ### My future wishes
